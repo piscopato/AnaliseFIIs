@@ -1,0 +1,443 @@
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local/share": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1707092921473	geckodriver	INFO	Listening on 127.0.0.1:37239
+1707092922917	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecarzRf"
+Gtk-Message: 21:28:42.948: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707092925688	Marionette	INFO	Marionette enabled
+1707092926269	Marionette	INFO	Listening on port 39737
+Read port: 39737
+1707092927237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+JavaScript error: https://www.fundsexplorer.com.br/ranking line 123 > injectedScript, line 1: TypeError: a is null
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1707092955770	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1707092956327	Marionette	INFO	Stopped listening on port 39737
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/message-groups getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+[GFX1-]: Wayland protocol error: warning: queue 7317902f8c10 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707092958923	geckodriver	INFO	Listening on 127.0.0.1:58973
+1707092959805	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFzCk4o"
+Gtk-Message: 21:29:19.828: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707092960404	Marionette	INFO	Marionette enabled
+1707092960470	Marionette	INFO	Listening on port 46827
+Read port: 46827
+1707092961355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707092967127	Marionette	INFO	Stopped listening on port 46827
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 178: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+[GFX1-]: Wayland protocol error: warning: queue 77d26bb6ba90 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707092976674	geckodriver	INFO	Listening on 127.0.0.1:55819
+1707092977535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepUdSty"
+Gtk-Message: 21:29:37.558: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707092978153	Marionette	INFO	Marionette enabled
+1707092978218	Marionette	INFO	Listening on port 46719
+Read port: 46719
+1707092979101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+JavaScript error: https://www.fundsexplorer.com.br/ranking line 123 > injectedScript, line 1: TypeError: a is null
+1707093007598	Marionette	INFO	Stopped listening on port 46719
+JavaScript warning: https://script.hotjar.com/modules.fd7a1c20a85f7a95e5ff.js, line 2: Script terminated by timeout at:
+e<@https://script.hotjar.com/modules.fd7a1c20a85f7a95e5ff.js:2:68689
+
+[GFX1-]: Wayland protocol error: warning: queue 7529963eb1c0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707342712427	geckodriver	INFO	Listening on 127.0.0.1:43991
+1707342713413	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoBWoUe"
+Gtk-Message: 18:51:53.437: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707342714021	Marionette	INFO	Marionette enabled
+1707342714092	Marionette	INFO	Listening on port 35357
+Read port: 35357
+1707342715034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707342728738	Marionette	INFO	Stopped listening on port 35357
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+He/</</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:22275
+He/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:22443
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 7e9462dc16a0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707343660874	geckodriver	INFO	Listening on 127.0.0.1:38193
+1707343661755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelEUFfp"
+Gtk-Message: 19:07:41.776: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707343662336	Marionette	INFO	Marionette enabled
+1707343662401	Marionette	INFO	Listening on port 41941
+Read port: 41941
+1707343663271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707343676061	Marionette	INFO	Stopped listening on port 41941
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 74778c295730 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707343739776	geckodriver	INFO	Listening on 127.0.0.1:41005
+1707343740630	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWOIqfH"
+Gtk-Message: 19:09:00.652: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707343741228	Marionette	INFO	Marionette enabled
+1707343741292	Marionette	INFO	Listening on port 40693
+Read port: 40693
+1707343742301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1707343768272	Marionette	INFO	Stopped listening on port 40693
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 74e5830be1f0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707343994568	geckodriver	INFO	Listening on 127.0.0.1:42295
+1707343995418	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilet7ktve"
+Gtk-Message: 19:13:15.440: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707343996010	Marionette	INFO	Marionette enabled
+1707343996075	Marionette	INFO	Listening on port 44263
+Read port: 44263
+1707343996976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1707344013606	Marionette	INFO	Stopped listening on port 44263
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 716e92ad8220 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707344044933	geckodriver	INFO	Listening on 127.0.0.1:54425
+1707344045782	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5OkPGU"
+Gtk-Message: 19:14:05.803: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707344046396	Marionette	INFO	Marionette enabled
+1707344046466	Marionette	INFO	Listening on port 38331
+Read port: 38331
+1707344047321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707344059046	Marionette	INFO	Stopped listening on port 38331
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+ee@https://www.clarity.ms/s/0.7.20/clarity.js:2:14328
+ra@https://www.clarity.ms/s/0.7.20/clarity.js:2:32967
+ca/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:35843
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 7adf8408a310 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707344310108	geckodriver	INFO	Listening on 127.0.0.1:41495
+1707344310981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9Zuuod"
+Gtk-Message: 19:18:31.003: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707344311603	Marionette	INFO	Marionette enabled
+1707344311671	Marionette	INFO	Listening on port 42429
+Read port: 42429
+1707344312560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1707344326112	Marionette	INFO	Stopped listening on port 42429
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 7cd793f89d30 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707344414491	geckodriver	INFO	Listening on 127.0.0.1:59741
+1707344415373	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehF12tH"
+Gtk-Message: 19:20:15.397: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707344415975	Marionette	INFO	Marionette enabled
+1707344416040	Marionette	INFO	Listening on port 42475
+Read port: 42475
+1707344417006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707344430433	Marionette	INFO	Stopped listening on port 42475
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 790252c996d0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707344465885	geckodriver	INFO	Listening on 127.0.0.1:39413
+1707344466756	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletXoZZg"
+Gtk-Message: 19:21:06.779: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707344467347	Marionette	INFO	Marionette enabled
+1707344467411	Marionette	INFO	Listening on port 32881
+Read port: 32881
+1707344468243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707344482013	Marionette	INFO	Stopped listening on port 32881
+[GFX1-]: Wayland protocol error: warning: queue 787fcaa86fa0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707344540958	geckodriver	INFO	Listening on 127.0.0.1:44623
+1707344541837	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNR0zNX"
+Gtk-Message: 19:22:21.858: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707344542446	Marionette	INFO	Marionette enabled
+1707344542517	Marionette	INFO	Listening on port 41419
+Read port: 41419
+1707344543447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707344555303	Marionette	INFO	Stopped listening on port 41419
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:6902
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+[GFX1-]: Wayland protocol error: warning: queue 72d2a4abd340 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707344632303	geckodriver	INFO	Listening on 127.0.0.1:47331
+1707344633188	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHVUobo"
+Gtk-Message: 19:23:53.211: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707344633848	Marionette	INFO	Marionette enabled
+1707344633923	Marionette	INFO	Listening on port 43785
+Read port: 43785
+1707344634776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707344649940	Marionette	INFO	Stopped listening on port 43785
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+ra@https://www.clarity.ms/s/0.7.20/clarity.js:2:32129
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:37049
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 73b2805de8e0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707345656492	geckodriver	INFO	Listening on 127.0.0.1:34021
+1707345657361	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBAYxJf"
+Gtk-Message: 19:40:57.385: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707345657967	Marionette	INFO	Marionette enabled
+1707345658038	Marionette	INFO	Listening on port 42463
+Read port: 42463
+1707345658921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707345673106	Marionette	INFO	Stopped listening on port 42463
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 7080216e33a0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707345805519	geckodriver	INFO	Listening on 127.0.0.1:52803
+1707345806396	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletHPxo5"
+Gtk-Message: 19:43:26.422: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707345807017	Marionette	INFO	Marionette enabled
+1707345807083	Marionette	INFO	Listening on port 32771
+Read port: 32771
+1707345808116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707345821831	Marionette	INFO	Stopped listening on port 32771
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 7c2eb27d30a0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707345854285	geckodriver	INFO	Listening on 127.0.0.1:41765
+1707345855145	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexcGXgJ"
+Gtk-Message: 19:44:15.167: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707345855748	Marionette	INFO	Marionette enabled
+1707345855814	Marionette	INFO	Listening on port 32995
+Read port: 32995
+1707345856760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707345870463	Marionette	INFO	Stopped listening on port 32995
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Wayland protocol error: warning: queue 7797c97bd250 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1707346057891	geckodriver	INFO	Listening on 127.0.0.1:53481
+1707346058755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilema77EP"
+Gtk-Message: 19:47:38.777: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707346059362	Marionette	INFO	Marionette enabled
+1707346059428	Marionette	INFO	Listening on port 38437
+Read port: 38437
+1707346060300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+1707346074785	Marionette	INFO	Stopped listening on port 38437
+JavaScript warning: https://www.clarity.ms/s/0.7.20/clarity.js, line 2: Script terminated by timeout at:
+Bt/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:12907
+Bt@https://www.clarity.ms/s/0.7.20/clarity.js:2:12857
+ya/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:36946
+rt/u/</<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7530
+rt/u/<@https://www.clarity.ms/s/0.7.20/clarity.js:2:7635
+o@https://www.clarity.ms/s/0.7.20/clarity.js:2:6352
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PRZL8BR, line 109: uncaught exception: [object Object]
+[GFX1-]: Wayland protocol error: warning: queue 77ac5b5a8430 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
